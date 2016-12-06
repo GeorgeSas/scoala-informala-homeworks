@@ -10,6 +10,8 @@ package stringutilitypackage;
  * <p><b> - removeAllWhiteSpaces()<b></p>
  * <p><b> - replaceNumbersAsWordsWithNumericCounterParts()<b></p>
  * 
+ * @author george.sas
+ * 
  */
 public class StringUtility {
 

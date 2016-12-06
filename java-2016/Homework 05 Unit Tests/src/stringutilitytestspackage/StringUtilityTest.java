@@ -12,6 +12,8 @@ import stringutilitypackage.StringUtility;
  * the actual implementation of the string 
  * manipulator.
  * 
+ * @author george.sas
+ * 
  */
 public class StringUtilityTest {
 
